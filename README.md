@@ -1,8 +1,9 @@
 ![Image](https://github.com/user-attachments/assets/6793dca3-40df-4e4d-8375-aca6532c6507)
 <h1 align="center">Hi 👋, I'm Anandhiramasamy</h1>
 <h3 align="center">Proactive Electronics and Communication Engineering graduate with hands-on experience in full-stack development, specializing in modern frameworks, database integration, and responsive web design. Passionate about delivering
-scalable, user-centric applications to enhance business efficiency and drive growth.</h3
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoodulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoodulhaque" /> </p>
+scalable, user-centric applications to enhance business efficiency and drive growth.</h3>
+<img align="right" alt="coding" width="300" src="https://github.com/Anandhiramasamy/Anandhiramasamy/blob/main/gif1.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoodulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="anandhiramasamy" /> </p>
 <p>🚀 About Me</p>
 <p>🌐 Full-Stack Developer | Frontend Enthusiast | Backend Explorer</p> 
 <p>🎓 Passionate about building scalable and interactive web applications.</p>
