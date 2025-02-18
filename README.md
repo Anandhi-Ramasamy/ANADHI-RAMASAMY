@@ -1,6 +1,7 @@
 ![Image](https://github.com/user-attachments/assets/6793dca3-40df-4e4d-8375-aca6532c6507)
 <h1 align="center">Hi 👋, I'm Anandhiramasamy</h1>
-<h3 align="center">Computer Science graduate with hands-on experience in software development and a strong grasp of programming languages like Python. Passionate about coding and problem-solving, seeking to contribute to innovative software development project.</h3
+<h3 align="center">Proactive Electronics and Communication Engineering graduate with hands-on experience in full-stack development, specializing in modern frameworks, database integration, and responsive web design. Passionate about delivering
+scalable, user-centric applications to enhance business efficiency and drive growth..</h3
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoodulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoodulhaque" /> </p>
 <p>🚀 About Me</p>
 <p>🌐 Full-Stack Developer | Frontend Enthusiast | Backend Explorer</p> 
@@ -41,6 +42,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnupriya&show_icons=true&locale=en&layout=compact" alt="vishnupriya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnupriya&show_icons=true&locale=en" alt="vishnupriya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anandhiramasamy&show_icons=true&locale=en" alt="Anandhiramasamy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoodulhaque&" alt="mahmoodulhaque" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anandhiramasamy&" alt="Anandhiramasamy" /></p>
+
