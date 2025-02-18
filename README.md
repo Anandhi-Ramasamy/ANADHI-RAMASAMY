@@ -40,10 +40,11 @@ scalable, user-centric applications to enhance business efficiency and drive gro
 
 <hr>
 
+<hr>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anandhiramasamy&show_icons=true&locale=en&layout=compact" alt="Anandhiramasamy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anandhiramasamy&show_icons=true&locale=en" alt="Anandhiramasamy" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anandhiramasamy&show_icons=true&locale=en" alt="Anandhiramasamy" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoodulhaque&" alt="mahmoodulhaque" /></p> 
+<p><img align="centering " src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoodulhaque&" alt="mahmoodulhaque" /></p></p> 
 
