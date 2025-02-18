@@ -44,7 +44,7 @@ scalable, user-centric applications to enhance business efficiency and drive gro
 
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anandhiramasamy&show_icons=true&locale=en" alt="Anandhiramasamy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandhiramasamy&show_icons=true&locale=en" alt="anandhiramasamy" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoodulhaque&" alt="mahmoodulhaque" /></p>
